@@ -10,12 +10,14 @@
 
 <h2>Github Stats</h2>
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-jeremy&layout=compact">
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-jeremy&langs_count=6">
 
 [//]: <> (https://github-readme-stats.vercel.app/api/top-langs/?username=s-jeremy&theme=white)                                                     
-[//]: <> (https://github-readme-stats-2-rho.vercel.app/api?username=s-jeremy&show_icons=true&hide_border=true)                                                     
+[//]: <> (https://github-readme-stats-2-rho.vercel.app/api?username=s-jeremy&show_icons=true&hide_border=true)   
 
-<br><br><br><br><br><br>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2>Contact me</h2>
 
